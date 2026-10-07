@@ -1,2 +1,5 @@
 # gaozihui.github.io
-Blogs from Zihui Gao in her Ph.D. career.
+
+Source of my academic homepage: https://gaozihui.github.io/
+
+Website template from [Jon Barron](https://github.com/jonbarron/jonbarron_website).
